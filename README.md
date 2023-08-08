@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**itzN7/itzN7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <h1 align="center">Hi, I'm Mohammed ✨</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h1 align="left"> Languages and Tools ✨: </h1> 
+
+
+<span align="center" >
+<img src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png" />
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>  
+<img src="https://img.icons8.com/color/48/000000/npm.png"/>   
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>  
+</span>
+<br>
+
+---
+
+### Contact 
+[![Discord Presence](https://lanyard.cnrad.dev/api/271110997861728266)](https://discord.com/users/271110997861728266)
+
+---
