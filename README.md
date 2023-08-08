@@ -13,7 +13,6 @@
 <img src="https://img.icons8.com/color/48/000000/typescript.png" />
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/officel/40/000000/php-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>  
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>   
