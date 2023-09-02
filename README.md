@@ -24,6 +24,6 @@
 ---
 
 ### Contact 
-[![Discord Presence](https://lanyard.cnrad.dev/api/271110997861728266)](https://discord.com/users/271110997861728266)
+[![Discord Presence](https://lanyard.cnrad.dev/api/729514722696626276)](https://discord.com/users/729514722696626276)
 
 ---
